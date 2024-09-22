@@ -31,7 +31,7 @@ Desenvolvimento de uma solução de automação para processos internos da empre
 
 ### Sistema de Cadastro de Crédito Rural
 
-![Cadastro Crédito Rural](./image%20(17).png)
+![Cadastro Crédito Rural](./image%20(9).png)
 
 ## Habilidades Utilizadas
 - **Excel** com automação em **VBA**
