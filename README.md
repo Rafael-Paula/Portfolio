@@ -1,22 +1,39 @@
 # Portfólio de Projetos
 
 - Rafael de Farias de Paula
-- https://www.linkedin.com/in/rafael-de-farias-de-paula/
+- [LinkedIn](https://www.linkedin.com/in/rafael-de-farias-de-paula/)
 - +55(47)98818-3850
 
 Bem-vindo ao meu portfólio de projetos! Abaixo estão listados os projetos que realizei, cada um com uma breve descrição e um link para mais detalhes.
 
-Meu nome é Rafael, a 4 (quatro) anos faço freelances de dados, para diferentes pessoas de diferentes, áreas, minha principal habilidade é a resolução de problemas.
+Meu nome é Rafael, sou um profissional especializado em **soluções de dados**, com experiência em diferentes áreas e uma paixão por resolver problemas complexos utilizando ferramentas como **Excel**, **VBA**, **Power BI**, e **Python**. Ao longo dos últimos anos, desenvolvi projetos que exigem atenção ao detalhe, automação de processos, análise e ciência de grandes volumes de dados.
 
 ## Projetos
 
-1. [Projeto 1: Lanine Moda Íntima](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%201%20-%20Lanine)
-   - **Ano**: 2020
-   - **Descrição**: Criação de uma planilha personalizada para controle do fluxo de vendas e financeiro. O projeto incluiu automação de fechamento com VBA e uso de Power BI para análise de desempenho.
+### [Projeto 3: Reconhecimento de PDF e Processamento de Notificações Fiscais (2024)](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%203%20-%20FGTS)
+- **Ano**: 2024
+- **Descrição**: Extração e processamento de dados de cerca de 1000 páginas de PDFs fiscais, organizando informações sobre FGTS. O projeto incluiu o desenvolvimento de um processo de **ETL (Extração, Transformação e Carregamento)** para corrigir erros de reconhecimento de texto em documentos escaneados, aplicação de **correção monetária** com índices específicos e conferência automática de valores.
+- **Habilidades**: Extração e processamento de PDFs, automação de tarefas em Excel, técnicas de estatística para verificação de dados, análise e correção monetária.
 
-2. [Projeto 2: Cultivar Assessoria Agrícola](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%202%20-%20Cultivar)
-   - **Ano**: 2021
-   - **Descrição**: Desenvolvimento de soluções para automação de processos, criação de um sistema de fluxo de caixa e um sistema de cadastro de crédito rural com Excel e VBA.
+---
+
+### [Projeto 2: Cultivar Assessoria Agrícola (2021)](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%202%20-%20Cultivar)
+- **Ano**: 2021
+- **Descrição**: Desenvolvimento de soluções de automação de processos internos, criação de um sistema de fluxo de caixa e um sistema de cadastro de crédito rural com **Excel** e **VBA**. O projeto incluiu a automação de cálculos financeiros e a criação de dashboards para visualização de entradas e saídas.
+- **Habilidades**: Automação de processos com VBA, criação de dashboards em Excel, gerenciamento de fluxo de caixa, sistemas de controle financeiro.
+
+---
+
+### [Projeto 1: Lanine Moda Íntima (2020)](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%201%20-%20Lanine)
+- **Ano**: 2020
+- **Descrição**: Criação de uma planilha personalizada para controle do fluxo de vendas e financeiro, com **automação em VBA** para o fechamento de operações. O projeto também incluiu a utilização de **Power BI** para análise de desempenho e geração de relatórios visuais.
+- **Habilidades**: Automação em VBA, análise de dados com Power BI, criação de relatórios visuais, gestão financeira.
+
+
+
+
+
+
 
 
 
