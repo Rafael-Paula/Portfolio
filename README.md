@@ -6,7 +6,7 @@
 
 Bem-vindo ao meu portfólio de projetos! Abaixo estão listados os projetos que realizei, cada um com uma breve descrição e um link para mais detalhes.
 
-Meu nome é Rafael, sou um profissional especializado em **soluções de dados**, com experiência em diferentes áreas e uma paixão por resolver problemas complexos utilizando ferramentas como **Excel**, **VBA**, **Power BI**, e **Python**. Ao longo dos últimos anos, desenvolvi projetos que exigem atenção ao detalhe, automação de processos, análise e ciência de grandes volumes de dados.
+Meu nome é Rafael, sou um profissional especializado em **soluções de dados**, com experiência em diferentes áreas e uma paixão por resolver problemas complexos utilizando ferramentas como **Excel**, **VBA**, **Power BI**, e **Python**. Ao longo dos últimos anos, desenvolvi projetos que demandaram habilidades em comunicação, trabalho em equipe, automação de processos, análise e ciência de grandes volumes de dados.
 
 ## Projetos
 
