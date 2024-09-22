@@ -1,4 +1,5 @@
 
+## Informações Relevantes
 - Rafael de Farias de Paula
 - [LinkedIn](https://www.linkedin.com/in/rafael-de-farias-de-paula/)
 - +55(47)98818-3850
