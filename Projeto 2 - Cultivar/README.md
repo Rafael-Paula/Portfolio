@@ -8,7 +8,7 @@ Desenvolvimento de uma solução de automação para processos internos da empre
 
 ## Solução Implementada
 
-1. **Automação de Processos**: A empresa realizava a confecção de laudos de fumo de maneira manual (11 páginas), fazendo todos os cálculos à mão. Eu utilizei a ferramenta “Mala Direta” do Word em conjunto com uma planilha de Excel com relação SQL para automatizar esse processo, reduzindo o tempo gasto de várias horas para apenas alguns minutos.
+1. **Automação de Processos**: A empresa realizava a confecção de laudos de fumo de maneira manual (11 páginas), fazendo todos os cálculos à mão. Eu utilizei a ferramenta “Mala Direta” do Word em conjunto com uma planilha de Excel.
    
 2. **Criação de Fluxo de Caixa**: Desenvolvi uma planilha personalizada para fluxo de caixa, com dashboards dinâmicos para visualizar entradas e saídas da empresa de forma clara e eficiente.
 
