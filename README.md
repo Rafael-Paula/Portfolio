@@ -16,9 +16,12 @@ Meu nome é Rafael, sou um profissional especializado em **soluções de dados**
 - **Ano**: 2024
 - **Descrição**: Extração e processamento de dados de cerca de 1000 páginas de PDFs fiscais, organizando informações sobre FGTS. O projeto incluiu o desenvolvimento de um processo de **ETL (Extração, Transformação e Carregamento)** para corrigir erros de reconhecimento de texto em documentos escaneados, aplicação de **correção monetária** com índices específicos e conferência automática de valores.
 - **Habilidades**:
+  - Extração de dados PDF usando Adobe e Python.
+  - ETL (Extração, Transformação, Carregamento)
   - Excel
   - Automação de tarefas em Excel
   - Estatística para verificação de dados
+  - Documentação e rastreabilidade
   - Correção monetária
 
 ---
@@ -30,7 +33,8 @@ Meu nome é Rafael, sou um profissional especializado em **soluções de dados**
   - Automação de processos
   - Excel e mala direta
   - Criação de dashboards
-  - Gerenciamento de fluxo de caixa
+  - Desenvolvimento de fluxo de caixa
+  - Sistema de cadastro criado em Excel
 
 ---
 
@@ -42,6 +46,7 @@ Meu nome é Rafael, sou um profissional especializado em **soluções de dados**
   - Excel
   - Power BI
   - Criação de Dashboards
+  - Análise de dados
   - Gestão financeira
 
 
