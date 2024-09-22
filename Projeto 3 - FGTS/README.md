@@ -1,6 +1,7 @@
-# Projeto: Reconhecimento de PDF e Processamento de Notificações Fiscais
+# Vedolim Teixeira & Advogados Associados 
+Ano: 2024
 
-## Situação
+## Descrição
 
 Este projeto teve como objetivo processar **cerca de 1000 páginas de PDFs** de notificações fiscais relacionadas ao **recolhimento de Fundo de Garantia do Tempo de Serviço (FGTS)**. Os documentos eram judiciais e continham informações críticas que precisavam ser extraídas e organizadas de forma precisa.
 
@@ -66,17 +67,13 @@ Este arquivo faz referência às páginas específicas do PDF utilizadas para ex
 
 ---
 
-## Tecnologias Utilizadas
+## Habilidades Utilizadas
 
 - **Adobe Acrobat**: Utilizado para a extração de texto e tabelas dos PDFs.
 - **Excel**: Ferramenta principal para o processo de ETL, aplicando filtros, reconhecendo padrões de erro e automatizando a correção monetária.
 - **Estatística**: Técnicas de conferência para verificação de valores e autenticidade dos documentos.
 
----
 
-## Conclusão
-
-Este projeto foi fundamental para garantir a **integridade** e **precisão** dos dados fiscais e judiciais extraídos. A aplicação do processo de **ETL** e o uso de técnicas de **correção monetária** e **verificação de valores** resultaram em uma extração de dados confiável e precisa, atendendo às exigências jurídicas e garantindo que todos os documentos estivessem em conformidade com os requisitos estabelecidos.
 
 
 
