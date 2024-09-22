@@ -12,7 +12,7 @@ Meu nome é Rafael, sou um profissional especializado em **soluções de dados**
 
 ## Projetos
 
-### [Projeto 3: Reconhecimento de PDF e Processamento de Notificações Fiscais (2024)](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%203%20-%20FGTS)
+### [Projeto 3: - Vedolim Teixeira & Advogados Associados (2024)](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%203%20-%20FGTS)
 - **Ano**: 2024
 - **Descrição**: Extração e processamento de dados de cerca de 1000 páginas de PDFs fiscais, organizando informações sobre FGTS. O projeto incluiu o desenvolvimento de um processo de **ETL (Extração, Transformação e Carregamento)** para corrigir erros de reconhecimento de texto em documentos escaneados, aplicação de **correção monetária** com índices específicos e conferência automática de valores.
 - **Habilidades**:
