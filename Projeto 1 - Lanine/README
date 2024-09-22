@@ -1,0 +1,66 @@
+
+# Meu Portfólio de Projetos
+
+Bem-vindo ao meu portfólio! Aqui estão alguns dos meus projetos mais recentes:
+
+## Índice
+
+1. [Lanine Moda Íntima](#lanine-moda-íntima)
+2. [Projeto 2: Controle de Estoque](#projeto-2-controle-de-estoque)
+3. [Projeto 3: Dashboard Financeiro](#projeto-3-dashboard-financeiro)
+
+---
+
+## Lanine Moda Íntima
+
+**Ano**: 2020
+
+### Descrição do Projeto
+
+Criação de uma planilha personalizada para controle do **fluxo de vendas** e **financeiro** para a Lanine Moda Íntima.
+
+### Solução Implementada
+
+- Desenvolvimento de uma **planilha personalizada** com funcionalidades específicas para o cliente.
+- Automação utilizando **VBA** para facilitar o fechamento de operações financeiras.
+- Utilização de **Power BI** para analisar o desempenho, gerar relatórios e visualizações gráficas do fluxo de vendas e despesas.
+
+### Visualizações do Projeto
+
+![Planilha de Vendas](./image%20(11).png)
+
+---
+
+## Projeto 2: Controle de Estoque
+
+**Ano**: 2021
+
+### Descrição do Projeto
+
+Este projeto envolve a criação de um sistema automatizado de controle de estoque para pequenas empresas. Utiliza Excel com automação VBA para gestão de inventário e relatórios de vendas.
+
+- Funcionalidade 1: Controle de produtos por categoria
+- Funcionalidade 2: Relatórios dinâmicos de inventário
+
+### Tecnologias Utilizadas
+
+- Excel com VBA
+- Power BI para relatórios
+
+---
+
+## Projeto 3: Dashboard Financeiro
+
+**Ano**: 2022
+
+### Descrição do Projeto
+
+Criação de um **Dashboard Financeiro** em Power BI para análise de receitas e despesas mensais, comparando a variação de desempenho financeiro ao longo do tempo.
+
+- Funcionalidade 1: Gráficos de barras e linhas para visualização de receitas
+- Funcionalidade 2: Relatórios interativos para análise de despesas por categoria
+
+### Tecnologias Utilizadas
+
+- Power BI
+- Excel para processamento inicial dos dados
