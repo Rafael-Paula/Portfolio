@@ -27,8 +27,8 @@ Meu nome é Rafael, sou um profissional especializado em **soluções de dados**
 - **Ano**: 2021
 - **Descrição**: Desenvolvimento de soluções de automação de processos internos, criação de um sistema de fluxo de caixa e um sistema de cadastro de crédito rural com **Excel** e **VBA**. O projeto incluiu a automação de cálculos financeiros e a criação de dashboards para visualização de entradas e saídas.
 - **Habilidades**:
-  - Automação de processos com VBA
-  - Excel
+  - Automação de processos
+  - Excel e mala direta
   - Criação de dashboards
   - Gerenciamento de fluxo de caixa
 
@@ -41,7 +41,7 @@ Meu nome é Rafael, sou um profissional especializado em **soluções de dados**
   - Automação em VBA
   - Excel
   - Power BI
-  - Criação de relatórios visuais
+  - Criação de Dashboards
   - Gestão financeira
 
 
