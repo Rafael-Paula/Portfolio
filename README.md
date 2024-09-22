@@ -1,5 +1,7 @@
-# Portfólio de Projetos - Rafael de Farias de Paula
+# Portfólio de Projetos
+Rafael de Farias de Paula
 https://www.linkedin.com/in/rafael-de-farias-de-paula/
++55(47)98818-3850
 
 Bem-vindo ao meu portfólio de projetos! Abaixo estão listados os projetos que realizei, cada um com uma breve descrição e um link para mais detalhes.
 
