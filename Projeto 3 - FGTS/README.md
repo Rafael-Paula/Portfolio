@@ -7,7 +7,7 @@ Este projeto teve como objetivo processar **cerca de 1000 páginas de PDFs** de 
 
 O desafio era que muitas páginas dos PDFs estavam escaneadas (não digitais), o que causava erros na extração de dados. Além disso, havia a necessidade de aplicar correção monetária de acordo com os índices legais e garantir que os valores fossem exatos, como especificado nos arquivos judiciais.
 
-## Tarefa
+## Desafio
 
 Minha tarefa era realizar a **extração de dados** das páginas corretas dos PDFs, corrigir erros gerados pelo reconhecimento de texto de documentos escaneados, aplicar a correção monetária utilizando um índice específico, e garantir que os valores finais extraídos estivessem em conformidade com os valores indicados nos documentos originais.
 
