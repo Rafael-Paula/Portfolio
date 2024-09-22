@@ -1,4 +1,3 @@
-# Portfólio de Projetos
 
 - Rafael de Farias de Paula
 - [LinkedIn](https://www.linkedin.com/in/rafael-de-farias-de-paula/)
