@@ -1,3 +1,9 @@
+## Contact
+- Rafael de Farias de Paula
+- rafaelfarias951@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/rafael-de-farias-de-paula/)
+- +55(47)98818-3850
+
 # Project Portfolio
 
 Welcome to my project portfolio! Below are the projects I have completed, each with a brief description and a link for more details.
