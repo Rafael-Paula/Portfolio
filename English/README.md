@@ -38,7 +38,7 @@ My name is Rafael, and I am a professional specializing in **data solutions**, w
 
 ---
 
-### [Project 1: Lanine Intimate Apparel (2020)](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%201%20-%20Lanine)
+### [Project 1: Lanine Intimate Apparel (2020)](https://github.com/Rafael-Paula/Portfolio/tree/main/English/Project%201%20-%20Lanine)
 - **Year**: 2020  
 - **Description**: Created a customized spreadsheet for tracking sales and financial flows, with **VBA automation** for closing operations. The project also included the use of **Power BI** for performance analysis and generating visual reports.
 - **Skills**:
@@ -48,4 +48,5 @@ My name is Rafael, and I am a professional specializing in **data solutions**, w
   - Dashboard creation
   - Data analysis
   - Financial management
+
 
