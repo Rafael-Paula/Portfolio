@@ -26,7 +26,7 @@ My name is Rafael, and I am a professional specializing in **data solutions**, w
 
 ---
 
-### [Project 2: Cultivar Agricultural Consulting (2021)](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%202%20-%20Cultivar)
+### [Project 2: Cultivar Agricultural Consulting (2021)](https://github.com/Rafael-Paula/Portfolio/tree/main/English/Project%202%20-%20Cultivar))
 - **Year**: 2021  
 - **Description**: Development of internal process automation solutions, creation of a cash flow system, and a rural credit registration system using **Excel** and **VBA**. The project included automating financial calculations and creating dashboards to visualize inflows and outflows.
 - **Skills**:
