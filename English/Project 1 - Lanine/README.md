@@ -30,10 +30,11 @@ The project provided Lanine Intimate Fashion with:
 ![Financial Control Spreadsheet](./image%20(12).png)  
 
 ### Sales Spreadsheet  
-![Sales Spreadsheet](./image%20(11).png)  
+![Sales Spreadsheet](./image%20(11)%20(1).png)  
 
 ### Sales Performance Table  
-![Sales Performance Table](./image%20(9).png)  
+![Sales Performance Table](./image%20(9)%20(1).png)  
+
 
 ## Technologies Used  
 - **Excel** with **VBA** automation  
