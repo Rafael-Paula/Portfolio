@@ -12,7 +12,7 @@ My name is Rafael, and I am a professional specializing in **data solutions**, w
 
 ## Projects
 
-### [Project 3: Vedolim Teixeira & Advogados Associados (2023)](https://github.com/Rafael-Paula/Portfolio/tree/main/Projeto%203%20-%20FGTS)
+### [Project 3: Vedolim Teixeira & Advogados Associados (2023)](https://github.com/Rafael-Paula/Portfolio/blob/main/English/Project%203%20-%20FGTS))
 - **Year**: 2024  
 - **Description**: Extraction and processing of data from approximately 1,000 pages of fiscal PDFs, organizing information related to FGTS. The project included the development of an **ETL (Extract, Transform, Load)** process to correct text recognition errors in scanned documents, the application of **monetary correction** using specific indices, and automatic value verification.
 - **Skills**:
