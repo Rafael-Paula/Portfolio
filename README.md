@@ -1,5 +1,4 @@
-
-### [English Portfolio]((https://github.com/Rafael-Paula/Portfolio/tree/main/English))
+# [English Portfolio](https://github.com/Rafael-Paula/Portfolio/tree/main/English)
 
 
 ## Contato
